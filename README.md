@@ -1,6 +1,6 @@
 # Dr. Sheetal Mohite: Renowned Spine Specialist in Mumbai
 
-Welcome to the official repository for information about Dr. Sheetal Mohite, a leading spine specialist in Mumbai. With over [X] years of expertise, Dr. Mohite is dedicated to providing world-class spine care and improving the quality of life for her patients.
+Welcome to the official repository for information about Dr. Sheetal Mohite, a leading spine specialist in Mumbai. With over 25+ years of expertise, Dr. Mohite is dedicated to providing world-class spine care and improving the quality of life for her patients.
 
 ![Dr. Sheetal Mohite](https://wearespine.in/wp-content/uploads/2024/10/wrs_the_best_spine_surgeon_in_mumbai_dr_sheetal_mohite.jpg)
 
